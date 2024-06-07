@@ -1,0 +1,15 @@
+.button3 {
+  background-color: hsl(200, 100%, 30%);
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
